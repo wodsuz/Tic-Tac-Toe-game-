@@ -1,5 +1,5 @@
-TicTacToe application made by Ongun Demirag - www.ongundemirag.com
-Live test avalible at: https://tic-tac-toe-gamma-one.vercel.app/
+# TicTacToe application made by Ongun Demirag - www.ongundemirag.com
+# Live test avalible at: https://tic-tac-toe-gamma-one.vercel.app/
 
 ![FireShot Capture 009 - Tic Tac Toe by Ongun - tic-tac-toe-gamma-one vercel app(1)](https://user-images.githubusercontent.com/34207598/148653606-aa3a5a6b-d385-4dfb-9a33-15c3d234859d.png)
 
